@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Junaid Khan",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "myworld234.aternos.me",
+    "port": 39650,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "mars pe chamcha mila",
+        "Amir Khan ki shaadi pe Junaid Khan khul ke virod kyun ni krr paa rha gadha",
+        "modi melony is equal to melody"
       ]
     },
     "chat-log": true,
